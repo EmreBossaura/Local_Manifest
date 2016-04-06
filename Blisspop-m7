@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
- <remove-project path="vendor/htc" name="TeamBliss-Devices/proprietary_vendor_htc" remote="github" revision="lp5.1" />
-  <project name="BlissPop-m7/device_htc_m7_blisspop" path="device/htc/m7" remote="github" revision="lp5.1" />
-  <project name="CyanogenMod/android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" revision="cm-12.1" />
-  <project name="BlissPop-m7/proprietary_vendor_m7" path="vendor/htc" remote="github" revision="lp5.1" />
-</manifest>
